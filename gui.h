@@ -4,11 +4,7 @@
 #include <fcntl.h>
 #include <unistd.h>
 #include <stdio.h>
-/*	Sudoku is stored in a array of (N^2)*(N^2)	
- * values of N can be 2 / 3
- * i.e the sizes of sudoku can be 4*4 / 9*9
- * */
-
+/*	Sudoku is stored in a array of (N^2)*(N^2)	*/
 
 /* gpointer
 typedef void* gpointer;
